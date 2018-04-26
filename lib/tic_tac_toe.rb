@@ -12,6 +12,7 @@ class TicTacToe
     (!position_taken?(board,index) && index.between?(0,8))? true : false
   end
   
+  
     
     
   
